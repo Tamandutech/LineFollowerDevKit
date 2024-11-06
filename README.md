@@ -2,6 +2,10 @@
 
 Command Line Interface (CLI) and other tools for developing, testing, debugging, and data visualization of line follower robots.
 
+> For a Graphic User Interface (GUI) Controller, use the [Dashboard](https://tt-linefollower.web.app).
+>
+> GitHub Repository: [Tamandutech/LineFollower_CCenter_Code](https://github.com/Tamandutech/LineFollower_CCenter_Code).
+
 ## Getting Started
 
 ### Prerequisites
