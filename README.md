@@ -32,7 +32,7 @@ $ uv tool install ruff
 ### Run Python Scripts
 
 ```bash
-$ uv run hello.py
+$ uv run src/main.py
 ```
 
 ### Run Jupyter Notebook
