@@ -110,10 +110,6 @@ async def main():
                 Terminal.log("Closing app...", "RED")
                 break
             else:
-                # for s in sliced(
-                #     bytes(string=command, encoding="utf-8"),
-                #     rx_char.max_write_without_response_size,
-                # ):
                 Terminal.log(f"{command.encode("utf-8")}")
 
                 try:

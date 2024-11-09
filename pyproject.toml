@@ -7,5 +7,8 @@ requires-python = ">=3.12"
 dependencies = [
     "asyncio>=3.4.3",
     "bleak>=0.22.3",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.2",
+    "networkx>=3.4.2",
     "ruff>=0.7.0",
 ]
